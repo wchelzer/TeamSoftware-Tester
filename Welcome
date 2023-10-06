@@ -1,0 +1,6 @@
+public class Tester{
+	public static void main(args[]){
+		System.out.print("Welcome");
+	}
+	
+}
